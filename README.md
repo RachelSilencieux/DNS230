@@ -42,3 +42,53 @@ S'il n'y a plus d'éclairage, la luminosité est intense.
 - Mon projet consiste à coudre le textile relié au circuit playground, pour envoyer du courant électrique pour allumer les lumières.
 
 Ce que j'ai réussi à faire : J'ai réussi à coudre deux lignes avec des boutons, au bout, en forme d'étoile et en forme de feuille. En se positionnant dessus, chacun allume une lumière différente.
+
+
+## -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Documentation : PROJET FINAL - Robe lumineuse
+
+Semaine 1 : Brainstorming
+------------------------
+
+Pour la première semaine, avec mon équipe, j'ai réfléchi à plusieurs projets qu'on peut réaliser comme : le service restaurent, le bracelet luminieux au mouvement et la robe lumineuse. Au départ,
+
+je n'avais pas toutes les informations sur les matériels à utiliser pour notre projet, donc je suis venue dans la décision d'effectuer le service restaurent comme projet final.
+
+Pour finir, j'ai effectué le diagramme du système du service restaurent, tout en réfléchissant en profondeur les contraintes du service.
+
+
+## Ce que j'ai appris
+
+J'ai appris à concevoir un diagramme qui respecte tous ce que mon équipe et moi avions réfléchi. Aussi, de mieux comprendre le fonctionnement de notre projet.
+
+
+## Les difficultées rencontrées 
+
+La principale difficulté rencontrée était seulement sur le brainstorming : essayer de rassembler nos idées afin de trouver le projet qui nous convient. De plus, de concevoir le diagramme a été un challenge
+
+parce qu'il fallait que je réfléchisse énormément aux fonctionnements.
+
+
+Semaine 2 : Choix final du projet
+--------------------------------
+
+Pour la deuxième semaine, après avoir reçu les informations complètes concernant le projet final, avec mon équipe, je suis venue dans la conclusion de faire le projet de la Robe Lumineuse.
+
+Les matériaux que je vais utiliser pour fabriquer cette robe est : une jupe (vraiment cheap - colorée, mais transparente pour voir la lumière), un détecteur de mouvement (la personne danse
+
+et les lumières s'allument), des DELs (en languettes) et autres.
+
+
+## Ce que j'ai appris
+
+J’ai appris que plusieurs éléments doivent être pris en compte pour réaliser notre robe lumineuse : le choix du tissu, la visibilité des DELs et la façon de déclencher les lumières avec les mouvements. 
+
+J’ai compris que les matériaux doivent être choisis en fonction de l’effet recherché. Les discussions avec mon équipe m’ont aussi permis de préciser notre idée et de déterminer ce qu’il faudra tester pour 
+
+vérifier si elle fonctionne comme prévu.
+
+## Les difficultées rencontrées
+
+Je n'ai pas vraiment vécu de difficultés cette semaine, mais le choix des matériels nous a demandé beaucoup de réflexions.
