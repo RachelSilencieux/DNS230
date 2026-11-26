@@ -12,6 +12,7 @@ Salut, je m'appelle Rachel Silencieux, étudiante en design d'expérience utilis
 
 *3) RÉGLAGE 3 - Mode endormissante* : Lumière rouge foncé, très faible et très lente. C'est le réglage le plus discret avant l'extinction.
 
+**Photo se trouve dans : 1_MakeCode**
 
 ## 2_MakeCode
 
@@ -25,6 +26,7 @@ Quand la lumière reste bleue, cela veut dire que la plante est innondée.
 
 Quand la lumière reste rouge, cela veut dire que la plante manque d'eau.
 
+**Photo se trouve dans : 2_MakeCode**
 
 ## 3_Arduino
 
@@ -37,12 +39,16 @@ Si l'éclairage devient sombre, la luminosité est faible.
 S'il n'y a plus d'éclairage, la luminosité est intense.
 
 
+**Photo se trouve dans : 3_Arduino**
+
 ## 4_E-Textiles
 
 - Mon projet consiste à coudre le textile relié au circuit playground, pour envoyer du courant électrique pour allumer les lumières.
 
 Ce que j'ai réussi à faire : J'ai réussi à coudre deux lignes avec des boutons, au bout, en forme d'étoile et en forme de feuille. En se positionnant dessus, chacun allume une lumière différente.
 
+
+**Photo se trouve dans : 4_Arduino**
 
 ----------------------
 
